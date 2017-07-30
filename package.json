@@ -1,0 +1,17 @@
+{
+  "name": "export-polar-flow-sessions",
+  "version": "0.1.0",
+  "description": "nodejs script to bulk export Polar Flow sessions in different format",
+  "main": "script.js",
+  "author": "jbirgand",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhujhul/export-polar-flow-sessions.git"
+  },
+  "engines": { "node": ">=6.4.0" },
+  "dependencies": {
+    "request": "^2.81.0",
+    "yargs": "^8.0.2"
+  }
+}
